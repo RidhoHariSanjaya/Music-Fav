@@ -165,4 +165,10 @@ h3 {
         top: -7%;
         left: 65px;
     }
+
+    .player-img {
+        width: 200px;
+        height: 200px;
+        left: 43px;
+    }
 }
